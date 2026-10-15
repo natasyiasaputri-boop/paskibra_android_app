@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paskibra SMKN 2 Purwakarta</string>
+    <string name="nav_profil">Profil</string>
+    <string name="nav_berita">Berita</string>
+    <string name="nav_galeri">Galeri</string>
+    <string name="nav_agenda">Agenda</string>
+    <string name="nav_lainnya">Lainnya</string>
+    <string name="menu_organigram">Organigram</string>
+    <string name="menu_anggota">Anggota</string>
+    <string name="menu_prestasi">Prestasi</string>
+    <string name="menu_tentang">Tentang Kami</string>
+    <string name="menu_daftar">Daftar Anggota Baru</string>
+    <string name="error_title">Tidak dapat terhubung</string>
+    <string name="error_message">Periksa koneksi internet Anda, lalu coba lagi.</string>
+    <string name="error_server_message">Halaman sedang bermasalah. Silakan coba lagi beberapa saat lagi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="admin_blocked">Halaman admin hanya tersedia untuk pengurus melalui website.</string>
+    <string name="cannot_open_link">Tidak dapat membuka tautan ini.</string>
+</resources>

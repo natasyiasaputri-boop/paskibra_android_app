@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/more_organigram" android:title="@string/menu_organigram" />
+    <item android:id="@+id/more_anggota" android:title="@string/menu_anggota" />
+    <item android:id="@+id/more_prestasi" android:title="@string/menu_prestasi" />
+    <item android:id="@+id/more_tentang" android:title="@string/menu_tentang" />
+    <item android:id="@+id/more_daftar" android:title="@string/menu_daftar" />
+</menu>

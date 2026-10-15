@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Warna diambil dari website: public/css/public-pages.css -->
+<resources>
+    <color name="maroon">#6B0F1A</color>
+    <color name="maroon_dark">#4A070F</color>
+    <color name="maroon_light">#8E1826</color>
+    <color name="gold">#F5C842</color>
+    <color name="gold_light">#FFF4D1</color>
+    <color name="bg_light">#FCF9F9</color>
+    <color name="text_muted">#595959</color>
+    <color name="white">#FFFFFF</color>
+</resources>
