@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -5,7 +7,7 @@ plugins {
 
 // Opsional: dipakai hanya saat Anda membuat APK/AAB release bertanda tangan.
 val keystorePropsFile = rootProject.file("keystore.properties")
-val keystoreProps = java.util.Properties().apply {
+val keystoreProps = Properties().apply {
     if (keystorePropsFile.exists()) load(keystorePropsFile.inputStream())
 }
 
